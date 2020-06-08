@@ -75,5 +75,5 @@ Features
 Install
 -------
 
-* on archlinux, install with your favorite aur manager, ie. yay -S escrotum-git
-* with pip, pip install escrotum
+* on Arch Linux, install with your favorite aur manager, e.g. ``yay -S escrotum-git``
+* with Python pip: ``pip install escrotum``
